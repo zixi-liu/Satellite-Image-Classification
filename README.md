@@ -9,4 +9,4 @@ Liu.Zixi.03 "Score Census Tracts in Connecticut on Their Likeliness to Support G
 Liu.Zixi.04 "Predicting Los Angeles Summer Wildfire Locations in 2019" <br/>
 [JavascriptCodeGoogleEarthEngine](https://code.earthengine.google.com/3b77b0206604b14e785fd11769d85632)
 
-Liu.Zixi.07 "Creating ArcToolbox to Compute and Classify Sales Volumes for Coffee Shops" <br/>
+Liu.Zixi.07 "Creating ArcToolbox to Compute Sales Volumes for Coffee Shops" <br/>
