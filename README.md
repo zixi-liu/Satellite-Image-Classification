@@ -1,7 +1,7 @@
 # CPLN670_GeospatialSoftwareDesign
 
 Term Project "Predicting Brazil Poverty Using  Supervised Pixel-based Image Classification"<br/>
-[Read Proposal](https://github.com/zixi-liu/CPLN670_GeospatialSoftwareDesign/blob/master/BrazilProject.pdf)<br/>
+[Read Proposal](https://zixi-liu.github.io/GeospatialSoftwareDesign/Liu,Zixi_TermProject.pdf)<br/>
 [Read Code](https://nbviewer.jupyter.org/github/zixi-liu/GoogleEarthEngine/blob/master/BrazilProject.ipynb)
 
 Liu.Zixi.02 "Best Tract to Build a Private Hospital in Connecticut" <br/>
