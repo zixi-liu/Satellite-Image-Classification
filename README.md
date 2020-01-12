@@ -1,5 +1,9 @@
 # CPLN670_GeospatialSoftwareDesign
 
+Term Project "Predicting Brazil Poverty Using  Supervised Pixel-based Image Classification"<br/>
+[Read Proposal](https://github.com/zixi-liu/CPLN670_GeospatialSoftwareDesign/blob/master/BrazilProject.pdf)<br/>
+[Read Code](https://nbviewer.jupyter.org/github/zixi-liu/GoogleEarthEngine/blob/master/BrazilProject.ipynb)
+
 Liu.Zixi.02 "Best Tract to Build a Private Hospital in Connecticut" <br/>
 [JavascriptCodeGoogleEarthEngine](https://code.earthengine.google.com/777683dcc3aef7293cd897ef22f08eb5)
 
@@ -11,6 +15,4 @@ Liu.Zixi.04 "Predicting Los Angeles Summer Wildfire Locations in 2019" <br/>
 
 Liu.Zixi.07 "Creating ArcToolbox to Compute Sales Volumes for Coffee Shops" <br/>
 
-Term Project "Predicting Brazil Poverty Using  Supervised Pixel-based Image Classification"<br/>
-[Read Proposal](https://github.com/zixi-liu/CPLN670_GeospatialSoftwareDesign/blob/master/BrazilProject.pdf)<br/>
-[Read Code](https://nbviewer.jupyter.org/github/zixi-liu/GoogleEarthEngine/blob/master/BrazilProject.ipynb)
+
