@@ -1,4 +1,4 @@
-# CPLN670_GeospatialSoftwareDesign
+# Satellite Image Classification using Random Forest 
 
 Term Project "Predicting Brazil Poverty Using  Supervised Pixel-based Image Classification"<br/>
 [Read Proposal](https://zixi-liu.github.io/Satellite-Image-Classification/Liu,Zixi_TermProject.pdf)<br/>
